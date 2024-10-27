@@ -14,4 +14,4 @@ Open terminal and execute main.js script with next command:
 
     $ node main.js
 
-© Copyright CodeCademy. Programming by Denys Korobov.
+Programming by Denys Korobov.
