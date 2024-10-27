@@ -1,4 +1,4 @@
-# Credit Card Checker (starter)
+# Mystery Organism (starter)
 **This is my solution for project of course "Back-end Engineer" by CodeCademy**
 
 ## Overview
